@@ -1,5 +1,3 @@
-# Albuquerque
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -107,19 +105,19 @@
             {
                 id: 0,
                 nome: 'produto1',
-                img: 'tde.jpg',
+                img: 'https://starautismsupport.com/sites/default/files/Science%20Icon.png',
                 quantidade: 0
             },
             {
                 id: 1,
                 nome: 'produto2',
-                img: 'tde.jpg',
+                img: 'https://starautismsupport.com/sites/default/files/Science%20Icon.png',
                 quantidade: 0
             },
             {
                 id: 2,
                 nome: 'produto3',
-                img: 'tde.jpg',
+                img: 'https://starautismsupport.com/sites/default/files/Science%20Icon.png',
                 quantidade: 0
             },
 
